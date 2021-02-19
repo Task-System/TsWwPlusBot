@@ -1,4 +1,4 @@
-[TsWwLogo](TsWwLogo.PNG)
+![TsWwLogo](TsWwLogo.PNG)
 Format: ![Alt Text](url)
 
 # TsWwPlusBot
