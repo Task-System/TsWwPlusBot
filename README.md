@@ -57,6 +57,10 @@ protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
 ### 🎭 Secrets
 Restore and build project using dotnet command
+```cmd
+dotnet restore
+dotnet bulid
+```
 
 TsWw uses secret manager to store Bot token and connection string
 
